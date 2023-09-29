@@ -6,7 +6,7 @@ Atividade de Engenharia de Software
 
 ---------------------------------------------------------------
 
-                INFORMAÇÕES A SEREM INSERIDAS
+            INFORMAÇÕES A SEREM INSERIDAS
 
 ---------------------------------------------------------------
 
