@@ -92,7 +92,7 @@ class EmailAlertsListener implements EventListener {
     }
 }
 
-public class Observator {
+public class Observer {
     public static void main(String[] args) {
         // Configurar o editor e os ouvintes
         Editor editor = new Editor();
